@@ -23,7 +23,7 @@ The interactive dashboard visualizes key insights, including:
 - 📈 **Sales Trends & Category Performance**
 
 ### 📌 **Live Tableau Dashboard**  
-🔗 [View Dashboard Here]([your-tableau-public-link](https://public.tableau.com/app/profile/shirsendu.ghosh/vizzes))
+🔗 https://public.tableau.com/app/profile/shirsendu.ghosh/vizzes
 
 ## 🔹 How to Use
 1. Download the **SQL file** and run queries in MySQL.
