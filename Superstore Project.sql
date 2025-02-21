@@ -218,7 +218,7 @@ group by Items
 order by `Profit Margin Percentage` desc; 
 
 
-#   6. Order Trends & Business Seasonality---->
+#   7. Order Trends & Business Seasonality---->
 
 select * from superstore;
 
